@@ -1,0 +1,1 @@
+console.log('estou no main.js');
